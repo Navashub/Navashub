@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navashub&label=Profile%20views&color=0e75b6&style=flat" alt="navashub" /> </p>
 
-- 🌱 I’m currently learning **Pytorch, Tensorflow, Django**
+- 🌱 I’m currently learning **Tailwind CSS , JavaScript, Python**
 
-- 👯 I’m looking to collaborate on **Java Android Applications**
+- 👯 I’m looking to collaborate on **Java Android Applications, Website development**
 
-- 💬 Ask me about **Java, Spring**
+- 💬 Ask me about **Java, Shell, HTML**
 
 - ⚡ Fun fact **I created the algorithm that created me!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<a href="https://twitter.com/MullerNavas">Navas Herbert</a></h3>
 <p align="left">
 </p>
 
