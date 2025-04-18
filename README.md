@@ -1,17 +1,34 @@
+# Hi there 👋
 
-<h3 align="center">A life long learner, interested in ML and Builds Android Applications.</h3>
+I am a results-driven Data Analyst and Software Developer with a strong foundation in data science, analytics, and full-stack development. With hands-on experience in Python, SQL, and web technologies, I thrive in solving real-world problems by building data-driven applications and delivering actionable insights.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navashub&label=Profile%20views&color=0e75b6&style=flat" alt="navashub" /> </p>
+Over the years, I’ve built solutions and collaborated with communities aiming to make technology accessible and impactful — especially within the African tech ecosystem.
 
-- 🌱 I’m currently learning **Tailwind CSS , JavaScript, Python**
+---
 
-- 👯 I’m looking to collaborate on **Java Android Applications, Website development**
+**Strong Skills:** Python, SQL, Flask, Streamlit, HTML/CSS, JavaScript, Power BI, Tableau, Machine Learning
 
-- 💬 Ask me about **Java, Shell, HTML**
+---
 
-- ⚡ Fun fact **I created the algorithm that created me!**
+🔭 I’m currently working as a Freelance Data Analyst and Software Developer.
 
-<h3 align="left">Connect with me:<a href="https://twitter.com/MullerNavas">Navas Herbert</a></h3>
+🎓 I completed my Data Science program at GoMyCode and previously trained as a Full Stack Software Engineer at Moringa School.
+
+🚀 I’ve worked on various projects ranging from customer churn prediction, loan classification, EV price prediction, and chatbot development — many of which are live on Streamlit and documented on GitHub and Medium.
+
+🌍 I’m also passionate about building community and helping others access tech education and career opportunities. My work contributes to local tech growth through content, mentorship, and collaborative projects.
+
+💬 Ask me about: Data Analysis, Machine Learning, Flask/Streamlit Apps, API Integration, and Full-Stack Development.
+
+📫 How to reach me:  
+Email: [navasmuller01@gmail.com]  
+LinkedIn: [https://www.linkedin.com/in/navas-herbert/]  
+GitHub: [https://github.com/Navashub]  
+Dev.to: [https://dev.to/navashub]
+
+👉🏻 Also check out my portfolio projects and tools on GitHub and Streamlit!
+
+
 <p align="left">
 </p>
 
