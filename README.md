@@ -1,40 +1,103 @@
-# Hi there 👋
+# 👋 Hi, I’m Navas Herbert
 
-I am a results-driven Data Analyst and Software Developer with a strong foundation in data science, analytics, and full-stack development. With hands-on experience in Python, SQL, and web technologies, I thrive in solving real-world problems by building data-driven applications and delivering actionable insights.
+I’m an **AI-augmented Data & AI Engineer** and **SaaS builder** with a strong background in data engineering, analytics, and full-stack development. I work at the intersection of **data, automation, and product**, leveraging AI assistants and agent-based workflows to build systems faster, smarter, and at scale.
 
-Over the years, I’ve built solutions and collaborated with communities aiming to make technology accessible and impactful — especially within the African tech ecosystem.
-
----
-
-**Strong Skills:** Python, SQL, Flask, Streamlit, HTML/CSS, JavaScript, Power BI, Tableau, Machine Learning
+I enjoy solving real-world problems by designing **robust data pipelines**, **intelligent backend systems**, and **production-ready SaaS platforms** — from idea to launch.
 
 ---
 
-🔭 I’m currently working as a Freelance Data Analyst and Software Developer.
+## 🧠 What I do best
 
-🎓 I completed my Data Science program at GoMyCode and previously trained as a Full Stack Software Engineer at Moringa School.
+- **AI-assisted engineering**  
+  I collaborate with AI assistants for coding, debugging, architectural reasoning, and rapid prototyping — using AI as a force multiplier, not a shortcut.
 
-🚀 I’ve worked on various projects ranging from customer churn prediction, loan classification, EV price prediction, and chatbot development — many of which are live on Streamlit and documented on GitHub and Medium.
+- **Data & backend systems**  
+  Designing scalable batch and streaming pipelines, data models, and APIs that power real products and decision-making.
 
-🌍 I’m also passionate about building community and helping others access tech education and career opportunities. My work contributes to local tech growth through content, mentorship, and collaborative projects.
+- **Automation & agents**  
+  Building automated workflows and agent-based systems (n8n, serverless functions) to reduce manual work and increase reliability.
 
-💬 Ask me about: Data Analysis, Machine Learning, Flask/Streamlit Apps, API Integration, and Full-Stack Development.
+- **Startup & product engineering**  
+  Turning ideas into shipped products with real users, payments, and infrastructure.
 
-📫 How to reach me:  
-Email: [navasmuller01@gmail.com]  
-LinkedIn: [https://www.linkedin.com/in/navas-herbert/]  
-GitHub: [https://github.com/Navashub]  
-Dev.to: [https://dev.to/navashub]
+---
 
-👉🏻 Also check out my portfolio projects and tools on GitHub and Streamlit!
+## 🚀 Current focus
 
+- **Founder / AI Engineer @ SquadDrive (SaaS)**  
+  A community-driven platform for car owners and events, currently preparing for launch.  
+  I’m actively working on:
+  - Secure subscription payments (Paystack)
+  - Real-time features
+  - Scalable backend architecture
+  - Product iteration using AI-assisted workflows
 
-<p align="left">
-</p>
+- Exploring **AI engineering roles** and **startup-focused opportunities** where building and ownership matter.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navashub&show_icons=true&locale=en&layout=compact" alt="navashub" /></p>
+## 🛠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navashub&show_icons=true&locale=en" alt="navashub" /></p>
+### Languages & Core
+- Python, SQL, JavaScript, TypeScript
+
+### Data & AI
+- Apache Kafka, Airflow, Spark  
+- Data modeling, ETL/ELT, analytics engineering  
+- Applied machine learning (classification, prediction, analytics use cases)
+
+### Backend & Cloud
+- PostgreSQL (RLS), Supabase  
+- Serverless Edge Functions (Deno)  
+- Docker, Linux, AWS
+
+### Frontend
+- React 18, Vite, Tailwind CSS, shadcn/ui  
+- TanStack Query, React Hook Form, Zod  
+- Recharts for data visualization
+
+### Automation & Payments
+- n8n, cron-based workflows  
+- Paystack (subscriptions, webhooks, verification)  
+- Resend (emails)
+
+---
+
+## 📂 Projects
+
+I’ve worked on and shipped projects including:
+- Data platforms and dashboards for institutions  
+- Machine learning applications (churn prediction, loan classification, price prediction)  
+- Full-stack and Streamlit applications  
+- AI-powered and data-driven tools documented on GitHub and Dev.to  
+
+👉 Check out my repositories for **production code, experiments, and ongoing work**.
+
+---
+
+## 🌍 Community & growth
+
+I care deeply about:
+- Making technology more accessible  
+- Sharing knowledge through content and open projects  
+- Contributing to the African tech ecosystem through learning, mentorship, and collaboration  
+
+---
+
+## 💬 Let’s talk about
+- Data Engineering & Analytics  
+- AI-assisted development  
+- Automation & agents  
+- SaaS & startup engineering  
+- Backend & system design  
+
+---
+
+## 📫 Reach me
+
+- **Email:** navasmuller01@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/navas-herbert  
+- **GitHub:** https://github.com/Navashub  
+- **Dev.to:** https://dev.to/navashub  
+
+> *I don’t just use AI, I work with it to build faster, smarter systems.*
