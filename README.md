@@ -2,7 +2,7 @@
 
 I’m an **AI-augmented Data & AI Engineer** and **SaaS builder** with a strong background in data engineering, analytics, and full-stack development. I work at the intersection of **data, automation, and product**, leveraging AI assistants and agent-based workflows to build systems faster, smarter, and at scale.
 
-I enjoy solving real-world problems by designing **robust data pipelines**, **intelligent backend systems**, and **production-ready SaaS platforms** — from idea to launch.
+I enjoy solving real-world problems by designing **robust data pipelines**, **intelligent backend systems**, and **production-ready SaaS platforms** - from idea to launch.
 
 ---
 
