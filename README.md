@@ -4,7 +4,7 @@ I’m a **Data Engineer, AI Builder, and Instructor** passionate about building 
 
 I work at the intersection of **data, automation, and product**, using modern tools and AI-assisted workflows to design scalable systems and ship practical solutions.
 
-Currently, I combine **building, teaching, and learning** — which keeps me sharp both technically and conceptually.
+Currently, I combine **building, teaching, and learning** - which keeps me sharp both technically and conceptually.
 
 ---
 
