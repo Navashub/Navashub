@@ -1,103 +1,119 @@
-# 👋 Hi, I’m Navas Herbert
+# Hi, I’m Navas Herbert
 
-I’m an **AI-augmented Data & AI Engineer** and **SaaS builder** with a strong background in data engineering, analytics, and full-stack development. I work at the intersection of **data, automation, and product**, leveraging AI assistants and agent-based workflows to build systems faster, smarter, and at scale.
+I’m a **Data Engineer, AI Builder, and Instructor** passionate about building real-world systems and helping others break into tech.
 
-I enjoy solving real-world problems by designing **robust data pipelines**, **intelligent backend systems**, and **production-ready SaaS platforms** - from idea to launch.
+I work at the intersection of **data, automation, and product**, using modern tools and AI-assisted workflows to design scalable systems and ship practical solutions.
 
----
-
-## 🧠 What I do best
-
-- **AI-assisted engineering**  
-  I collaborate with AI assistants for coding, debugging, architectural reasoning, and rapid prototyping — using AI as a force multiplier, not a shortcut.
-
-- **Data & backend systems**  
-  Designing scalable batch and streaming pipelines, data models, and APIs that power real products and decision-making.
-
-- **Automation & agents**  
-  Building automated workflows and agent-based systems (n8n, serverless functions) to reduce manual work and increase reliability.
-
-- **Startup & product engineering**  
-  Turning ideas into shipped products with real users, payments, and infrastructure.
+Currently, I combine **building, teaching, and learning** — which keeps me sharp both technically and conceptually.
 
 ---
 
-## 🚀 Current focus
+## What I do
 
-- **Founder / AI Engineer @ SquadDrive (SaaS)**  
-  A community-driven platform for car owners and events, currently preparing for launch.  
-  I’m actively working on:
-  - Secure subscription payments (Paystack)
-  - Real-time features
-  - Scalable backend architecture
-  - Product iteration using AI-assisted workflows
+- **Data Engineering & Analytics**  
+  I design and teach core concepts like SQL, data modeling, pipelines, and analytics — focusing on practical, job-ready skills.
 
-- Exploring **AI engineering roles** and **startup-focused opportunities** where building and ownership matter.
+- **AI-assisted development**  
+  I use AI tools to accelerate development, debug faster, and reason through complex systems — as a multiplier, not a shortcut.
+
+- **Backend & system design**  
+  I build APIs, data systems, and scalable backends that power real applications.
+
+- **Automation & workflows**  
+  I create automated systems and agent-based workflows to reduce manual work and improve efficiency.
+
+---
+
+## Current Role
+
+**Data Engineering Instructor @ Lux Academy**
+
+- Teaching SQL, data fundamentals, and analytics concepts to large cohorts (70+ students)  
+- Guiding beginners through complex topics like joins, subqueries, CTEs, and window functions  
+- Focusing on **practical understanding, not just theory**  
+- Supporting students in building confidence and problem-solving skills  
+
+---
+
+## Current Focus
+
+- **Founder / AI Engineer — SquadDrive (SaaS)**  
+  Building a community-driven platform for car owners and events.
+
+  Current work includes:
+  - Subscription systems (Paystack integration)  
+  - Backend architecture & scalability  
+  - Real-time features  
+  - AI-assisted product iteration  
+
+- Growing as both a **data engineer and technical educator**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Core
-- Python, SQL, JavaScript, TypeScript
+### Languages
+- Python, SQL, JavaScript, TypeScript  
 
-### Data & AI
-- Apache Kafka, Airflow, Spark  
-- Data modeling, ETL/ELT, analytics engineering  
-- Applied machine learning (classification, prediction, analytics use cases)
+### Data
+- PostgreSQL  
+- ETL/ELT pipelines  
+- Data modeling  
+- Analytics & reporting  
 
 ### Backend & Cloud
-- PostgreSQL (RLS), Supabase  
-- Serverless Edge Functions (Deno)  
-- Docker, Linux, AWS
+- Supabase, Serverless Functions  
+- Docker, Linux, AWS  
 
 ### Frontend
-- React 18, Vite, Tailwind CSS, shadcn/ui  
-- TanStack Query, React Hook Form, Zod  
-- Recharts for data visualization
+- React, Vite, Tailwind CSS  
+- TanStack Query, Zod  
 
-### Automation & Payments
-- n8n, cron-based workflows  
-- Paystack (subscriptions, webhooks, verification)  
-- Resend (emails)
+### Automation
+- n8n workflows  
+- APIs, webhooks, integrations
+- LangChain
 
 ---
 
 ## 📂 Projects
 
-I’ve worked on and shipped projects including:
-- Data platforms and dashboards for institutions  
-- Machine learning applications (churn prediction, loan classification, price prediction)  
-- Full-stack and Streamlit applications  
-- AI-powered and data-driven tools documented on GitHub and Dev.to  
+I’ve built and worked on:
 
-👉 Check out my repositories for **production code, experiments, and ongoing work**.
+- Data platforms and dashboards  
+- Machine learning projects (prediction & classification)  
+- Full-stack applications  
+- AI-powered tools and automation systems  
 
----
-
-## 🌍 Community & growth
-
-I care deeply about:
-- Making technology more accessible  
-- Sharing knowledge through content and open projects  
-- Contributing to the African tech ecosystem through learning, mentorship, and collaboration  
+👉 Check my repositories for real implementations and experiments.
 
 ---
 
-## 💬 Let’s talk about
-- Data Engineering & Analytics  
+## Community & Impact
+
+- Teaching and mentoring aspiring data professionals  
+- Sharing knowledge through projects and content  
+- Contributing to the African tech ecosystem through learning and collaboration  
+
+---
+
+## Let’s talk about
+
+- Data Engineering  
+- SQL & analytics  
 - AI-assisted development  
-- Automation & agents  
-- SaaS & startup engineering  
-- Backend & system design  
+- Automation systems  
+- SaaS & product building  
 
 ---
 
-## 📫 Reach me
+## Reach me
 
 - **Email:** navasmuller01@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/navas-herbert  
 - **GitHub:** https://github.com/Navashub  
 - **Dev.to:** https://dev.to/navashub  
 
-> *I don’t just use AI, I work with it to build faster, smarter systems.*
+---
+
+> *I don’t just learn and build - I also teach and simplify complex ideas.*
