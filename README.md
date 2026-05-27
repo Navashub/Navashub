@@ -50,7 +50,7 @@ Currently, I combine **building, teaching, and learning** - which keeps me sharp
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python, SQL, JavaScript, TypeScript  
