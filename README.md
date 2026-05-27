@@ -109,10 +109,10 @@ Check my repositories for real implementations and experiments.
 
 ## Reach me
 
-- **Email:** navasmuller01@gmail.com  
+- **Email:** navasherbert01@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/navas-herbert  
 - **GitHub:** https://github.com/Navashub  
-- **Dev.to:** https://dev.to/navashub  
+- **Dev.to:** https://dev.to/navas_herbert  
 
 ---
 
