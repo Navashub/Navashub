@@ -76,7 +76,7 @@ Currently, I combine **building, teaching, and learning** - which keeps me sharp
 
 ---
 
-## 📂 Projects
+## Projects
 
 I’ve built and worked on:
 
@@ -85,7 +85,7 @@ I’ve built and worked on:
 - Full-stack applications  
 - AI-powered tools and automation systems  
 
-👉 Check my repositories for real implementations and experiments.
+Check my repositories for real implementations and experiments.
 
 ---
 
