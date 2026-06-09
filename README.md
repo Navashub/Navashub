@@ -37,7 +37,7 @@ Currently, I combine **building, teaching, and learning** - which keeps me sharp
 
 ## Current Focus
 
-- **Founder / AI Engineer — SquadDrive (SaaS)**  
+- **Founder / AI Engineer - SquadDrive (SaaS)**  
   Building a community-driven platform for car owners and events.
 
   Current work includes:
