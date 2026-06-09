@@ -11,10 +11,10 @@ Currently, I combine **building, teaching, and learning** - which keeps me sharp
 ## What I do
 
 - **Data Engineering & Analytics**  
-  I design and teach core concepts like SQL, data modeling, pipelines, and analytics — focusing on practical, job-ready skills.
+  I design and teach core concepts like SQL, data modeling, pipelines, and analytics - focusing on practical, job-ready skills.
 
 - **AI-assisted development**  
-  I use AI tools to accelerate development, debug faster, and reason through complex systems — as a multiplier, not a shortcut.
+  I use AI tools to accelerate development, debug faster, and reason through complex systems - as a multiplier, not a shortcut.
 
 - **Backend & system design**  
   I build APIs, data systems, and scalable backends that power real applications.
