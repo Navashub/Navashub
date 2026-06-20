@@ -47,6 +47,10 @@ Currently, I combine **building, teaching, and learning** - which keeps me sharp
   - AI-assisted product iteration  
 
 - Growing as both a **data engineer and technical educator**
+- **Deepening backend & AI engineering skills**
+  Recently went deep on FastAPI (building production-style REST APIs) 
+  and RAG systems (chunking strategies, retrieval pipelines) - 
+  documenting the journey publicly on LinkedIn and Dev.to.
 
 ---
 
